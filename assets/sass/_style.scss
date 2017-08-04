@@ -1,0 +1,143 @@
+nav{
+	height: 85px;
+	background-color: $color-uno;
+}
+
+.nav-wrapper{
+	padding-left: 20px;
+}
+
+nav .brand-logo{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: $logo-color;
+}
+	
+
+.subtitulo{
+	padding-top:17px;
+}
+
+nav .subtitulo{
+	p{
+		color: $color-dos;
+	}
+} 
+
+.parte-uno h2{
+  font-family: 'Pompiere', cursive;
+  text-align: $text-align;
+}
+
+.parte-uno p{
+     margin: 0px 0px 25px;
+}
+.parte-dos{
+  background-color: $color-uno;
+}
+
+.parte-dos h2{
+   font-family: 'Pompiere', cursive;
+   text-align: $text-align;
+}
+
+.hombre{
+  background-image: url('../img/service-1-640x790.jpg');
+  height:400px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.lentes{
+  background-image: url('../img/service-3-640x790.jpg');
+  height:400px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.copas{
+  background-image: url('../img/service-2-640x790.jpg');
+  height:400px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.parte-tres{
+  background-image: url('../img/stat-bg.jpg');
+  padding: 30vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: 50px;
+}
+
+.parte-cuatro h2{
+  font-family: 'Pompiere', cursive;
+  text-align: $text-align;
+}
+
+.guitarra{
+  background-image: url('../img/team2-600x600.jpg');
+  height:300px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.bote{
+  background-image: url('../img/girl-1561989_1920-600x600.jpg');
+  height:300px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.flor{
+  background-image: url('../img/flower-child-336658_1920-600x600.jpg');
+  height:300px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.ski{
+  background-image: url('../img/skis-1208282_1920-600x600.jpg');
+  height:300px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.pexel{
+  background-image: url('../img/pexels-photo-172748-600x600.jpeg');
+  height:300px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.pexel2{
+  background-image: url('../img/pexels-photo-30252-600x600.jpg');
+  height:300px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.banner{
+  background-image: url('../img/banner1-600x600.jpg');
+  height:300px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.chile{
+  background-image: url('../img/chile-1463830_1920-600x600.jpg');
+  height:300px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
