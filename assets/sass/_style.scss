@@ -141,3 +141,74 @@ nav .subtitulo{
   background-repeat:no-repeat;
   background-size: cover;
 }
+
+.parte-cinco{
+  background-image: url('../img/cta-bg-1.jpg');
+  padding: 10vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: 50px;
+}
+
+.pregunta{
+  font-family: 'Pompiere', cursive;
+  text-align: $text-align;
+}
+
+.parte-cinco p{
+  text-align: $text-align;
+  font-size: 16px;
+}
+
+.waves-effect{
+  background-color: $color-button;
+  border-radius: 50px;
+  width: 180px;
+  border: 1px solid $color-button;
+  
+
+}
+
+.parte-seis{
+  background-image: url('../img/news-bg.jpg');
+  background-attachment: fixed;
+  padding: 25vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.parte-seis h2{
+  font-family: 'Pompiere', cursive;
+  text-align: $text-align;
+  color: $color-tres;
+
+}
+
+.parte-seis a{
+  color: $color-tres;
+  font-family: 'Pompiere', cursive;
+  font-size: 21px;
+
+}
+
+.fechas{
+  display: inline-block;
+}
+
+.material-icons{
+  color:$color-tres;
+}
+
+span{
+  color:$color-tres;
+}
+
+.texto p{
+  color:$color-tres;
+}
+
+
+
